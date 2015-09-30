@@ -10,4 +10,5 @@ bash setup:
 ![Alt text](bash.png)
 ----
 alias shortcut example:
+
 ![Alt text](pwd_proof.png)
