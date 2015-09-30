@@ -1,0 +1,1 @@
+I worked with Maria Ortiz on Assignment 1 and contributed the code for nesting for loops to make it easier to plot all the distribution types and calculate the population means. I worked with Maria, Dara Perl, and Rachel Cohen on Assignment 2 and contributed getting the statistical functions to work.
