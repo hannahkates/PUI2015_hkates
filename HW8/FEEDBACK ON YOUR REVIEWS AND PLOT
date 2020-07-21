@@ -1,0 +1,57 @@
+good reviews 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+
+the time series are of very different order of magnitude. thus all of them are invisible and cluster at the bottom . log y should be used.
+
+why is the plot resolution so low?
+
+there are too many time series on the plot. even with log space the result would likely be confusing. 
+
+for the y ticks a compressed notation for the large numbers should be chosen to enhance readability
+
+good legend and good size for the labels.
+
+consider steps instead of lines joining points for time series
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+cindyliu686
+============
+
+the colors are not explained nor is the transparency
+
+for the large numbers on x and y axis a more concise notation should be chosen
+
+the 3d dimension is unnecessary and possibly redundant with the color. 
+
+the 3d dimension makes the readability of the Square footage and of the # of units hard to read away from the edges of the respective axis ranges
+
+UrbanPlanner42
+============
+
+3d affects readability. 
+
+missing units
+
+color is redundant with the third axis (wich all the more should be omitted)
+
+the grid is deformed in mysterious ways
+
+tht title is exceedingly far from the plot
+
+
+
+elixeus
+============
+
+CLARITY: The title of the plot is confusing because it makes it sound like multiple ride types will be shown in the plot, but really only one ride type is being presented. The 'swipe no.' label is also a little confusing because it could be interpreted as a swipe id number. Saying 'number of swipes' would be easier to understand. Also what is the significance of 1.4e7 swipes?
+
+ESTHETIC: I think the color scheme and symbology is clear and easy to differeniate, however the dark blue dots may not be necessary to convey the same amount of information.
+
+HONESTY: There aren't any apparent distortions; the data presentation seems honest.
